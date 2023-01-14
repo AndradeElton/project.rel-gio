@@ -1,7 +1,7 @@
-<h1 align="center"> DevHouse Project </h1>
-<h4 align="center">  https://andradeelton.github.io/projeto2/ </h4>
+<h1 align="center"> The Clock </h1>
+<h4 align="center">  https://andradeelton.github.io/project.relogio/ </h4>
 <p align="center">
-Desafio Proposto por um grupo de amigos desenvolvedores.
+Projeto pessoal
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Desafio Proposto por um grupo de amigos desenvolvedores.
 
 <br>
 
-<p> align="center">
+<p align="center">
   <img alt="Projeto DevHouse" src=".github/clockpreview.png" width="100%">
 </p>
 
