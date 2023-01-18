@@ -23,9 +23,9 @@ body {
   }
   .relogio div {
     width: 100%;
+    display: flex;
   }
 }
-
 
 .relogio {
   display: flex;
