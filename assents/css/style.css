@@ -3,6 +3,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -12,19 +13,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-@media (max-width: 400px) {
-  /* style para dispositivos móveis */
-  .relogio {
-    flex-wrap: wrap;
-    display: flex;
-    justify-content: center;
-  }
-  .relogio div {
-    width: 100%;
-    display: flex;
-  }
 }
 
 .relogio {
